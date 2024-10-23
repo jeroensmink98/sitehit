@@ -1,0 +1,1 @@
+go run main.go  --batch 10 https://www.site.nl/sitemap.xml
